@@ -27,13 +27,18 @@ My favorite project so far has been to [develop a battle bot](https://scottbarne
 ## Work Experience
 **Teaching Assistant** at _The George Washington University School of Engineering & Applied Science_  
 August 2017-Present  
+
 **Systems Engineering Intern** at _Raytheon Cyber_  
 June 2017-August 2017  
+
 **Undergraduate Research Fellow** at _The George Washington University_  
 April 2016-Present  
+
 **Engineering Intern** at _Northrop Grumman Aerospace Systems_  
 June 2015-March 2017  
+
 **Undergraduate Research Assistant** at _Leblanc Labs, The George Washington University_  
 September 2015-May 2016  
+
 **Software Systems Engineering Intern** at _The Boeing Company_  
 June 2013-August 2013
