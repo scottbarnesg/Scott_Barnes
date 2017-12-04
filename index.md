@@ -1,10 +1,10 @@
 # Scott Barnes's Professional Profile  
 
 ## Table of Contents
-About Me
-Research
-Projects
-Work Experience
+[About Me](#about-me)  
+[Research](#research)
+[Projects](#projects)
+[Work Experience](#work-experience)
 
 
 ## About Me:  
