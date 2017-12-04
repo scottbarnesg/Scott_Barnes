@@ -17,3 +17,5 @@ My research is at the intersection of collaborative/cooperative robotics and mac
 
 ### Battle Bot
 My favorite project so far has been to [develop a battle bot](https://scottbarnesg.github.io/battle_bot/) for my Engineering System Design course. We designed a multi-weaponed robot that could drive even after being flipped entirely from scratch. As the "software guy" in the group, I was tasked with developing the software for our motor control and RF communication systems, as well as repurposing a video-game controller as the remote control.
+
+## Work Experience
