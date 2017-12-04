@@ -2,9 +2,9 @@
 
 ## Table of Contents
 [About Me](#about-me)  
-[Research](#research)
-[Projects](#projects)
-[Work Experience](#work-experience)
+[Research](#research)  
+[Projects](#projects)  
+[Work Experience](#work-experience)  
 
 
 ## About Me:  
