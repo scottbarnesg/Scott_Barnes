@@ -19,9 +19,10 @@ My research is at the intersection of collaborative/cooperative robotics and mac
 My favorite project so far has been to [develop a battle bot](https://scottbarnesg.github.io/battle_bot/) for my Engineering System Design course. We designed a multi-weaponed robot that could drive even after being flipped over entirely from scratch. As the "software guy" in the group, I was tasked with developing the software for our motor control and RF communication systems, as well as repurposing a video-game controller as the remote control's input device. I primarily developed software for embedded systems in C++, but also worked in Python (for interfacing with the video-game controller). All software was deployed on an Arduino or Raspberry Pi. For more information, check out our [project website](https://scottbarnesg.github.io/battle_bot/), which walks through the entire design, test, and deployment process we used.
 
 ### Wind Turbine
+More info coming soon!
 
 ### Optimal Control of an Inverted Pendulum
-
+More info coming soon!
 
 
 ## Work Experience
